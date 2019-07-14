@@ -1,2 +1,2 @@
 # real-time-group-chat-app
-chat app using express and websockets
+chat app using nodejs, express and websockets.
